@@ -2,6 +2,7 @@
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/104549030/165808573-58c435e7-2e37-460c-b5e8-a2c837a19906.png" />
+    <img src="https://user-images.githubusercontent.com/104549030/165809698-32e20ad9-f625-476d-aa83-8cc12a177b75.jpg" />
     <p align="center">Project by Jackie Yu, Suzie Liu</p>
 </p>
 
