@@ -24,8 +24,6 @@ This project uses a _Grasshopper_ script&mdash; which is a file that contains th
 
 The _Grasshopper_ script uses:
   - Lunchbox
-  - Ladybug
-  - Pufferfish
 
 Install these dependencies and then open the `.gh` file in Rhino3D.
 
