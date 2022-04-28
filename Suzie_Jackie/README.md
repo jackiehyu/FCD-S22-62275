@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/104549030/165808573-58c435e7-2e37-460c-b5e8-a2c837a19906.png" />
-    <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
+    <p align="center">Project by Jackie Yu, Suzie Liu</p>
 </p>
 
 Tackling architecture's relationship of light and function, this project aims to explore architecture's response to sunlight. In an approach that incorporates the contextualization of the site, we were inspired by the existing natural vegetation around CFA. 
