@@ -11,7 +11,7 @@ By citing our project around a tree, we were able to explore the dualities of li
 **Contents**
 
 - `.pdf` of M6 submission
-- additional `.gifs` or animated content
+- additional `.gifs` or animated content![2](https://user-images.githubusercontent.com/104549030/165810523-21ec4bae-7a8a-4b79-869d-185b403435f9.jpg)
 - `.gh` script file
 - `.3dm` CAD model file
 - this `.md` README
