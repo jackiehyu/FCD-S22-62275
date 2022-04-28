@@ -1,11 +1,12 @@
-# Example Project
+# Happy Days
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
+Tackling architecture's relationship of light and function, this project aims to explore architecture's response to sunlight. In an approach that incorporates the contextualization of the site, we were inspired by the existing natural vegetation around CFA. 
+By citing our project around a tree, we were able to explore the dualities of light and shadow. By developing an inside-outside connection that opens up around the central space, occupants are able to participate in a diverse variations of experiences. Utilizing a simple repeating pattern of curves, the project embraces a single surface that is placed against a gentle slope. In exploration, the project both hovers and touches the ground plane to provide both shelter and comfort. 
 
 **Contents**
 
