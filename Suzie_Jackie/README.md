@@ -1,7 +1,7 @@
 # Happy Days
 
 <p align="center">
-    <img src="![image](https://user-images.githubusercontent.com/104549030/165808573-58c435e7-2e37-460c-b5e8-a2c837a19906.png)" />
+    <img src="https://user-images.githubusercontent.com/104549030/165808573-58c435e7-2e37-460c-b5e8-a2c837a19906.png" />
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
