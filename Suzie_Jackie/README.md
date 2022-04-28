@@ -10,11 +10,10 @@ By citing our project around a tree, we were able to explore the dualities of li
 
 **Contents**
 
-- `.pdf` of M6 submission
+- [project pdf](https://drive.google.com/file/d/1XCOiYM1YxmKxSgOYt2PaYzGYodKo0Yvl/view?usp=sharing)
 - [sunlight animation](https://drive.google.com/file/d/1XCOiYM1YxmKxSgOYt2PaYzGYodKo0Yvl/view?usp=sharing)
-- `.gh` script file
-- `.3dm` CAD model file
-- this `.md` README
+- [grasshopper script](https://drive.google.com/file/d/1XCOiYM1YxmKxSgOYt2PaYzGYodKo0Yvl/view?usp=sharing)
+- [rhino model](https://drive.google.com/file/d/1XCOiYM1YxmKxSgOYt2PaYzGYodKo0Yvl/view?usp=sharing)
 
 ## Instructions for Use
 
